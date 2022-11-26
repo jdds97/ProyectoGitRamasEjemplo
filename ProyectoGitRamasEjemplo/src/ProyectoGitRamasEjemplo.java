@@ -5,7 +5,7 @@ public class ProyectoGitRamasEjemplo {
 	public static void main(String[] args) {
 
 		
-		JOptionPane.showMessageDialog(null, "Hello Mundo");
+		JOptionPane.showMessageDialog(null, "Wola Mundo");
 	
 
 	System.out.println("Hola mundo");
