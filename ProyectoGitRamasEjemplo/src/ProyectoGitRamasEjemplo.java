@@ -8,7 +8,7 @@ public class ProyectoGitRamasEjemplo {
 		JOptionPane.showMessageDialog(null, "Saludos Mundo");
 	
 
-	System.out.println("Hola mundo");
+	System.out.println("Hola mundoo");
 
 
 	}
