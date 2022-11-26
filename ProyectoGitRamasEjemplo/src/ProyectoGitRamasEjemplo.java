@@ -1,9 +1,11 @@
+import javax.swing.JOptionPane;
 
 public class ProyectoGitRamasEjemplo {
 
 	public static void main(String[] args) {
-		System.out.println("Hola mundo");
-
+		int a;
+		JOptionPane.showMessageDialog(null, "Hola Mundo");
+	
 	}
 
 }
